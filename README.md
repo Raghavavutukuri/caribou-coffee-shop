@@ -58,3 +58,7 @@ XAMPP
 
 *Profile*
 ![image](https://user-images.githubusercontent.com/82777393/204358386-d14f2234-a034-4c59-996f-8011eda955c2.png)
+
+
+
+### Note: This is a paid project, if needed contact me at harshithvutukuri@gmail.com
